@@ -6,15 +6,27 @@
 - Numero de Control: 23400608
 
 ## Intereses
-- Inteligencia Artificar 
-- Desarrollo Fronted
-- Desarollo Backed
-- Desarollo Movil 
---INSERT--
+- Programación, especialmente en Java
+- Redes de computadoras.
+- Bases de datos
+- Programacion web 
+- Aprender nuevas tecnologías
+- Aprender a cocinar
+- Hacer postres
+- Aprender a tocar la guitarra
+- Ver películas y series
+- Viajar y conocer nuevos lugares
+- Degustar cafés y postres
+
+## Tecnologias que conozco 
+- Java
+- Python
+- SQL
+- HTML
 
 ## Como Contactarme 
 - Correo : kalirendonva@ittepic.edu.mx
-- GitHub : Liz-Kalu
+- GitHub : https://github.com/Liz-Kalu
 
 ## Recomendacion 
-- El y Ella 
+- Lucifer

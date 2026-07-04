@@ -8,7 +8,7 @@ db["libros"].find({
 })
 ```
 
-## 2..Mostrar los usuarios cuya edad sea mayor o igual a 21 años
+## 2.Mostrar los usuarios cuya edad sea mayor o igual a 21 años
 
 ```javascript
 db["usuarios"].find({
@@ -16,7 +16,7 @@ db["usuarios"].find({
 })
 ```
 
-## 3..Mostrar los libros con menos de 350 páginas
+## 3.Mostrar los libros con menos de 350 páginas
 
 ```javascript
 db["libros"].find({

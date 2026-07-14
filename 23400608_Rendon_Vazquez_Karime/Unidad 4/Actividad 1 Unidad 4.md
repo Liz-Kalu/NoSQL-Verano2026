@@ -35,18 +35,20 @@
 
 ## 2. Consultar una película por su ID
 
-**a. Método HTTP:** `GET`
+**a. Descripción:** Consultar una pelicula.
 
-**b. URI:**
+**b. Método HTTP:** `GET`
+
+**c. URI:**
 ```text
 /pelicula/123
 ```
 
-**c. JSON enviado**
+**d. JSON enviado**
 
 No aplica. El ID se identifica en la URL.
 
-**d. JSON recibido**
+**e. JSON recibido**
 ```json
 {
   "code": 200,
@@ -64,14 +66,16 @@ No aplica. El ID se identifica en la URL.
 
 ## 3. Actualizar el año, director y duración de una película por su ID
 
-**a. Método HTTP:** `PUT`
+**a. Descripción:** Actualizar una pelicula.
 
-**b. URI:**
+**b. Método HTTP:** `PUT`
+
+**c. URI:**
 ```text
 /pelicula/123
 ```
 
-**c. JSON enviado**
+**d. JSON enviado**
 ```json
 {
   "año": 2001,
@@ -80,7 +84,7 @@ No aplica. El ID se identifica en la URL.
 }
 ```
 
-**d. JSON recibido**
+**e. JSON recibido**
 ```json
 {
   "code": 200,
@@ -92,18 +96,20 @@ No aplica. El ID se identifica en la URL.
 
 ## 4. Borrar una película por su ID
 
-**a. Método HTTP:** `DELETE`
+**a. Descripción:** Eliminar una pelicula.
 
-**b. URI:**
+**b. Método HTTP:** `DELETE`
+
+**c. URI:**
 ```text
 /pelicula/123
 ```
 
-**c. JSON enviado**
+**d. JSON enviado**
 
 No aplica. El ID se identifica en la URL.
 
-**d. JSON recibido**
+**e. JSON recibido**
 ```json
 {
   "code": 200,
